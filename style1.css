@@ -40,16 +40,16 @@
 }
 
 .green-border {
-    border: 7px solid #4CAF50;
+    border: 7px solid #99b3ff;
 }
 
 .green-border {
-    border: 7px solid #4CAF50; /* Green border */
+    border: 7px solid #99b3ff; /* Green border */
     transition: border-color 0.3s ease; /* Smooth transition effect */
 }
 
 .green-border:hover {
-    border-color: darkgreen; /* Change border color on hover */
+    border-color: darkviolet; /* Change border color on hover */
     transform: scale(0.9);
 }
 
